@@ -1,0 +1,31 @@
+index,block,lmg,R2_total,n,n_sig_categories,sig_categories
+pathogen_relab,Socioeconomic,0.023194186603374075,0.6979837014627166,31,3,Socioeconomic|Pesticides|Built environment
+pathogen_relab,Pesticides,0.03984056218033083,0.6979837014627166,31,3,Socioeconomic|Pesticides|Built environment
+pathogen_relab,Built environment,0.068350956960081,0.6979837014627166,31,3,Socioeconomic|Pesticides|Built environment
+pathogen_relab,Spatial structure,0.5665979957189309,0.6979837014627166,31,3,Socioeconomic|Pesticides|Built environment
+pathway_richness,Spatial structure,0.20169635224795368,0.20169635224795368,41,0,
+pathway_evenness,Spatial structure,0.27089390136537206,0.27089390136537206,41,0,
+amr_total_depth_perM,Urban heat island,0.03199126043016256,0.7272185207838289,36,2,Urban heat island|Pharmaceuticals
+amr_total_depth_perM,Pharmaceuticals,0.1219771934726621,0.7272185207838289,36,2,Urban heat island|Pharmaceuticals
+amr_total_depth_perM,Spatial structure,0.5732500668810042,0.7272185207838289,36,2,Urban heat island|Pharmaceuticals
+amr_class_diversity,Pharmaceuticals,0.13981807549310468,0.6559231006078821,36,3,Pharmaceuticals|Heavy metals|Urban heat island
+amr_class_diversity,Heavy metals,0.04269075813176064,0.6559231006078821,36,3,Pharmaceuticals|Heavy metals|Urban heat island
+amr_class_diversity,Urban heat island,0.026771504310679012,0.6559231006078821,36,3,Pharmaceuticals|Heavy metals|Urban heat island
+amr_class_diversity,Spatial structure,0.4466427626723376,0.6559231006078821,36,3,Pharmaceuticals|Heavy metals|Urban heat island
+vf_total_depth_perM,Socioeconomic,0.01984586505234884,0.7352485370786943,34,4,Socioeconomic|Air pollution (CAMS)|Climate|Built environment
+vf_total_depth_perM,Air pollution (CAMS),0.0520038528111724,0.7352485370786943,34,4,Socioeconomic|Air pollution (CAMS)|Climate|Built environment
+vf_total_depth_perM,Climate,0.04255905698386974,0.7352485370786943,34,4,Socioeconomic|Air pollution (CAMS)|Climate|Built environment
+vf_total_depth_perM,Built environment,0.056327942178865706,0.7352485370786943,34,4,Socioeconomic|Air pollution (CAMS)|Climate|Built environment
+vf_total_depth_perM,Spatial structure,0.5645118200524384,0.7352485370786943,34,4,Socioeconomic|Air pollution (CAMS)|Climate|Built environment
+VPI,Spatial structure,0.31298613066750525,0.31298613066750525,41,0,
+allergen_richness,Spatial structure,0.2063038581465091,0.2063038581465091,41,0,
+allergen_load_perM,Pesticides,0.07122351758813901,0.5388490861102719,34,2,Pesticides|Vegetation (NDVI)
+allergen_load_perM,Vegetation (NDVI),0.09390347734897399,0.5388490861102719,34,2,Pesticides|Vegetation (NDVI)
+allergen_load_perM,Spatial structure,0.3737220911731588,0.5388490861102719,34,2,Pesticides|Vegetation (NDVI)
+IPI,Spatial structure,0.4430061377617026,0.4430061377617026,41,0,
+xenobiotic_degrad,Spatial structure,0.22806769761488976,0.22806769761488976,41,0,
+EMHI,Spatial structure,0.5243570326316425,0.5243570326316425,41,0,
+USAI,Spatial structure,0.3188392135343624,0.3188392135343624,41,0,
+func_redundancy,Spatial structure,0.33288726351427744,0.33288726351427744,39,0,
+func_tax_decouple,Spatial structure,0.3457769594894433,0.3457769594894433,39,0,
+taxa_core_ubiquity,Spatial structure,0.2115059163894356,0.2115059163894356,40,0,

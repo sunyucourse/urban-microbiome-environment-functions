@@ -1,0 +1,15 @@
+category,index,beta_sample,fdr_sample,testable,sw_index,rho_sewage,p_sewage_2sided,n_sewage,direction_match_sewage,p_sewage_1sided,replicated
+Socioeconomic,pathogen_relab,-0.1564242269998878,1.048404924687414e-06,True,sw_pathogen_relab,0.4154036080021958,9.326072014615039e-11,224.0,False,0.9999999999533696,False
+Built environment,pathogen_relab,-0.1312550902582187,3.758159280640042e-06,True,sw_pathogen_relab,-0.2373965192700804,0.0002804166260641383,230.0,True,0.00014020831303206916,True
+Pesticides,pathogen_relab,-0.3110180414895427,4.965358759401285e-06,True,sw_pathogen_relab,0.016249483018010217,0.822071609718999,194.0,False,0.5889641951405005,False
+Vegetation (NDVI),allergen_load_perM,0.4207604251785012,2.625213761015963e-05,False,,,,,,,False
+Urban heat island,amr_total_depth_perM,-0.2557091029612703,0.0011104025583569,True,sw_amr_depth_pm,0.10514656676424657,0.11175594607057521,230.0,False,0.9441220269647124,False
+Pesticides,allergen_load_perM,-0.7576038695710481,0.0034779984114751,False,,,,,,,False
+Pharmaceuticals,amr_class_diversity,0.2052338564715295,0.006909657462604,True,sw_amr_richness,-0.012539852479661303,0.8706888892742894,171.0,False,0.5646555553628553,False
+Built environment,vf_total_depth_perM,-0.2238012838924585,0.0097364791962791,False,,,,,,,False
+Air pollution (CAMS),vf_total_depth_perM,-0.2316855771931354,0.0097364791962791,False,,,,,,,False
+Urban heat island,amr_class_diversity,-0.2094265559195499,0.0219865411767727,True,sw_amr_richness,-0.007114943007830513,0.9145375718270439,230.0,True,0.45726878591352194,False
+Socioeconomic,vf_total_depth_perM,-0.1943084485940974,0.0264631209315512,False,,,,,,,False
+Pharmaceuticals,amr_total_depth_perM,0.2010892226479141,0.0265839581717741,True,sw_amr_depth_pm,0.14635995661658788,0.05611181858107716,171.0,True,0.02805590929053858,True
+Heavy metals,amr_class_diversity,0.2080440412690397,0.0334394390382801,True,sw_amr_richness,-0.00509051977301943,0.9387974277827422,230.0,False,0.5306012861086289,False
+Climate,vf_total_depth_perM,-0.4447081918051142,0.0705980730159493,False,,,,,,,False

@@ -1,0 +1,103 @@
+{
+  "scope": "Post-profiling only; not an end-to-end raw-read validation",
+  "tolerance": {
+    "rtol": 1e-07,
+    "atol": 1e-10
+  },
+  "comparisons": [
+    {
+      "file": "S14_pathogen_dominance.csv",
+      "rows": 11,
+      "columns": 15,
+      "status": "PASS"
+    },
+    {
+      "file": "attribution_v7.csv",
+      "rows": 30,
+      "columns": 7,
+      "status": "PASS"
+    },
+    {
+      "file": "category_screen_v7.csv",
+      "rows": 224,
+      "columns": 9,
+      "status": "PASS"
+    },
+    {
+      "file": "category_screen_v7_mem5.csv",
+      "rows": 224,
+      "columns": 9,
+      "status": "PASS"
+    },
+    {
+      "file": "category_twostage_v7.csv",
+      "rows": 19,
+      "columns": 9,
+      "status": "PASS"
+    },
+    {
+      "file": "composites_validation_v7.csv",
+      "rows": 3,
+      "columns": 7,
+      "status": "PASS"
+    },
+    {
+      "file": "replication_category_v8.csv",
+      "rows": 14,
+      "columns": 12,
+      "status": "PASS"
+    },
+    {
+      "file": "replication_concordance_v8.csv",
+      "rows": 185,
+      "columns": 10,
+      "status": "PASS"
+    },
+    {
+      "file": "replication_enrichment_v8.csv",
+      "rows": 185,
+      "columns": 12,
+      "status": "PASS"
+    },
+    {
+      "file": "replication_factor_v8.csv",
+      "rows": 47,
+      "columns": 14,
+      "status": "PASS"
+    },
+    {
+      "file": "spatial_full_v7.csv",
+      "rows": 1365,
+      "columns": 9,
+      "status": "PASS"
+    },
+    {
+      "file": "spatial_full_v7_mem5.csv",
+      "rows": 1365,
+      "columns": 9,
+      "status": "PASS"
+    },
+    {
+      "file": "twostage_v7.csv",
+      "rows": 64,
+      "columns": 12,
+      "status": "PASS"
+    },
+    {
+      "file": "twostage_v7_mem5.csv",
+      "rows": 55,
+      "columns": 12,
+      "status": "PASS"
+    }
+  ],
+  "summary": {
+    "confirmed_factor_pairs": 47,
+    "confirmed_category_pairs": 14,
+    "matched_pairs": 185,
+    "amr_depth_direction_agreement": [
+      29,
+      37
+    ],
+    "nominal_binomial_p": 0.0007528970600105822
+  }
+}

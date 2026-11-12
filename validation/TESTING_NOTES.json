@@ -1,0 +1,21 @@
+{
+  "validation_date": "2026-11-12",
+  "status": "PASS for all 14 included historical output tables",
+  "pilot_screens_runtime_seconds": 7.66,
+  "full_pipeline_runtime_seconds": 14.07,
+  "scope": "Post-profiling statistical steps only",
+  "not_tested": [
+    "Raw-read QC and profiling",
+    "Upstream functional-index reconstruction",
+    "Environmental extraction",
+    "Discovery category-PC1 reconstruction",
+    "All supplementary-table and figure generation",
+    "Fresh dependency installation"
+  ],
+  "remaining_release_tasks": [
+    "Author confirmation of redistribution rights",
+    "Choose license for author-owned code",
+    "Upload repository and archive release",
+    "Replace manuscript URL placeholder"
+  ]
+}

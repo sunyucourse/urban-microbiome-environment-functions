@@ -1,0 +1,72 @@
+[
+  {
+    "file": "data/indices/indices_sample_v7.csv",
+    "source": "indices/indices_sample_v7.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/indices/indices_city_v7.csv",
+    "source": "indices/indices_city_v7.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/master_env_city.csv",
+    "source": "master_env_city.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/city_coords_metasub.csv",
+    "source": "city_coords_metasub.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/stats_seed/indices_city_ms.csv",
+    "source": "stats_ms/indices_city_ms.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/stats_seed/category_pc1_v7.csv",
+    "source": "stats_ms/category_pc1_v7.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/stats_seed/env_clusters_v7.csv",
+    "source": "stats_ms/env_clusters_v7.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/stats_seed/category_pc1_meta_v7.csv",
+    "source": "stats_ms/category_pc1_meta_v7.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/sewage/sewage_city_indices.csv",
+    "source": "sewage/sewage_city_indices.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/sewage/gssi_city_metals.csv",
+    "source": "sewage/gssi_city_metals.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/sewage/gssi_city_pharma.csv",
+    "source": "sewage/gssi_city_pharma.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/sewage/gssi_city_pm25.csv",
+    "source": "sewage/gssi_city_pm25.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/sewage/gssi_city_env_ext.csv",
+    "source": "sewage/gssi_city_env_ext.csv",
+    "transformation": "Copied without modification"
+  },
+  {
+    "file": "data/pathogen_species22.csv",
+    "source": "feature_tables/species_relab.csv",
+    "transformation": "22 historical S14 species; 2049 included sample rows; no reclosure"
+  }
+]

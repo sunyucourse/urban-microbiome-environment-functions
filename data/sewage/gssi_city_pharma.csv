@@ -1,0 +1,231 @@
+city,country,region,n,pharma_cum_city,pharma_cum_country,pharma_cum_ngL,pharma_src,pharma_cum_log10
+Abidjan,Cote d'Ivoire,Sub-Saharan Africa,7,,,,none,
+Abu Dhabi,United Arab Emirates,Middle East & North Africa,4,,,,none,
+Abuja,Nigeria,Sub-Saharan Africa,7,,23300.0,23300.0,country,4.367355921026019
+Accra,Ghana,Sub-Saharan Africa,8,12700.0,12700.0,12700.0,city,4.103803720955957
+Addis Ababa,Ethiopia,Sub-Saharan Africa,3,51300.0,51300.0,51300.0,city,4.710117365111817
+Almaty,Kazakhstan,Europe & Central Asia,2,,606.0,606.0,country,2.782472624166286
+Ambato,Ecuador,Latin America & Caribbean,8,,4730.0,4730.0,country,3.6748611407378116
+Amsterdam,Netherlands,Europe & Central Asia,2,,2970.0,2970.0,country,3.4727564493172123
+Ancona,Italy,Europe & Central Asia,4,,386.0,386.0,country,2.586587304671755
+Antananarivo,Madagascar,Sub-Saharan Africa,8,,,,none,
+Ascoli Piceno,Italy,Europe & Central Asia,3,,386.0,386.0,country,2.586587304671755
+Asuncion,Paraguay,Latin America & Caribbean,2,,,,none,
+Athens,Greece,Europe & Central Asia,5,,696.0,696.0,country,2.842609239610562
+Atlanta,United States of America,North America,3,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Austin,United States of America,North America,2,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Balti,Moldova,Europe & Central Asia,3,,,,none,
+Banja Luka,Bosnia and Herz.,Europe & Central Asia,6,,,,none,
+Barcelona,Spain,Europe & Central Asia,9,,17100.0,17100.0,country,4.232996110392154
+Batna,Algeria,Middle East & North Africa,3,,,,none,
+Bedong,Malaysia,East Asia & Pacific,4,,14200.0,14200.0,country,4.152288344383057
+Beer-Sheva,Israel,Middle East & North Africa,4,,12900.0,12900.0,country,4.110589710299249
+Beggen,Luxembourg,Europe & Central Asia,2,,10700.0,10700.0,country,4.02938377768521
+Belem,Brazil,Latin America & Caribbean,3,,1257.6666666666667,1257.6666666666667,country,3.099565550481333
+Belgrade,Serbia,Europe & Central Asia,17,2820.0,2820.0,2820.0,city,3.450249108319361
+Belo Horizonte,Brazil,Latin America & Caribbean,3,,1257.6666666666667,1257.6666666666667,country,3.099565550481333
+Berlin,Germany,Europe & Central Asia,7,1400.0,2540.0,1400.0,city,3.146128035678238
+Bern,Switzerland,Europe & Central Asia,6,,1030.0,1030.0,country,3.012837224705172
+Biyad,Lebanon,Middle East & North Africa,2,,,,none,
+Blacksburg,United States of America,North America,2,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Blantyre,Malawi,Sub-Saharan Africa,6,,,,none,
+Bobo Dioulasso,Burkina Faso,Sub-Saharan Africa,2,,1250.0,1250.0,country,3.0969100130080562
+Bologna,Italy,Europe & Central Asia,3,,386.0,386.0,country,2.586587304671755
+Boston,United States of America,North America,4,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Bouake,Cote d'Ivoire,Sub-Saharan Africa,11,,,,none,
+Bratislava,Slovakia,Europe & Central Asia,8,829.0,829.0,829.0,city,2.9185545305502734
+Bridgetown,Barbados,Latin America & Caribbean,6,,,,none,
+Brno,Czechia,Europe & Central Asia,9,,1490.0,1490.0,country,3.173186268412274
+Bruges,Belgium,Europe & Central Asia,2,,6210.0,6210.0,country,3.79309160017658
+Budapest,Hungary,Europe & Central Asia,12,1840.0,1840.0,1840.0,city,3.2648178230095364
+Buenos Aires,Argentina,Latin America & Caribbean,3,15700.0,15700.0,15700.0,city,4.195899652409234
+Bukavu,Dem. Rep. Congo,Sub-Saharan Africa,8,,,,none,
+Butterworth,Malaysia,East Asia & Pacific,4,,14200.0,14200.0,country,4.152288344383057
+Cahul,Moldova,Europe & Central Asia,2,,,,none,
+Calavi,Benin,Sub-Saharan Africa,2,,76.9,76.9,country,1.885926339801431
+Calgary,Canada,North America,8,856.0,1142.0,856.0,city,2.932473764677153
+Camborne,United Kingdom,Europe & Central Asia,6,,3606.8,3606.8,country,3.5571220610029948
+Cannobio,Italy,Europe & Central Asia,7,,386.0,386.0,country,2.586587304671755
+Casablanca,Morocco,Middle East & North Africa,4,,595.0,595.0,country,2.7745169657285498
+Castries,Saint Lucia,Latin America & Caribbean,3,,,,none,
+Causeni,Moldova,Europe & Central Asia,2,,,,none,
+Chapel Hill,United States of America,North America,5,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Chisinau,Moldova,Europe & Central Asia,14,,,,none,
+Christchurch,New Zealand,East Asia & Pacific,8,,22.0,22.0,country,1.3424226808222062
+Christiansburg,United States of America,North America,3,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Colina,Chile,Latin America & Caribbean,4,,2057.2,2057.2,country,3.3132765156490525
+Colombo,Sri Lanka,South Asia,4,4110.0,4110.0,4110.0,city,3.6138418218760693
+Comrat,Moldova,Europe & Central Asia,3,,,,none,
+Copenhagen,Denmark,Europe & Central Asia,18,,1730.0,1730.0,country,3.2380461031287955
+Cotonou,Benin,Sub-Saharan Africa,3,76.9,76.9,76.9,city,1.885926339801431
+Daejeon,South Korea,East Asia & Pacific,6,,4400.0,4400.0,country,3.6434526764861874
+Dakar,Senegal,Sub-Saharan Africa,5,,,,none,
+Darwin,Australia,East Asia & Pacific,4,,326.5,326.5,country,2.5138831856110926
+Deurne,Belgium,Europe & Central Asia,2,,6210.0,6210.0,country,3.79309160017658
+Dhaka,Bangladesh,South Asia,7,,6940.0,6940.0,country,3.841359470454855
+Dresden,Germany,Europe & Central Asia,7,,2540.0,2540.0,country,3.404833716619938
+Dubai,United Arab Emirates,Middle East & North Africa,4,,,,none,
+Dunedin,New Zealand,East Asia & Pacific,3,,22.0,22.0,country,1.3424226808222062
+Edinburgh,United Kingdom,Europe & Central Asia,5,,3606.8,3606.8,country,3.5571220610029948
+Edinet,Moldova,Europe & Central Asia,3,,,,none,
+El Paso,United States of America,North America,4,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Faisalabad,Pakistan,South Asia,2,,70700.0,70700.0,country,4.849419413796899
+Falmouth,United Kingdom,Europe & Central Asia,7,,3606.8,3606.8,country,3.5571220610029948
+Fermo,Italy,Europe & Central Asia,4,,386.0,386.0,country,2.586587304671755
+Gaborone,Botswana,Sub-Saharan Africa,4,,,,none,
+Galapagos,Ecuador,Latin America & Caribbean,2,,4730.0,4730.0,country,3.6748611407378116
+Galway,Ireland,Europe & Central Asia,5,,615.0,615.0,country,2.788875115775417
+Ghent,Belgium,Europe & Central Asia,2,,6210.0,6210.0,country,3.79309160017658
+Gothenburg,Sweden,Europe & Central Asia,8,,296.0,296.0,country,2.4712917110589387
+Grand Baie,Mauritius,Sub-Saharan Africa,2,,,,none,
+Graz,Austria,Europe & Central Asia,4,,4790.0,4790.0,country,3.680335513414563
+Gros Islet,Saint Lucia,Latin America & Caribbean,3,,,,none,
+Guangzhou,China,East Asia & Pacific,3,2760.0,8680.0,2760.0,city,3.4409090820652177
+Guatemala,Guatemala,Latin America & Caribbean,2,,,,none,
+Guayaquil,Ecuador,Latin America & Caribbean,2,4730.0,4730.0,4730.0,city,3.6748611407378116
+Guelph,Canada,North America,2,,1142.0,1142.0,country,3.0576661039098294
+Gwangju,South Korea,East Asia & Pacific,5,,4400.0,4400.0,country,3.6434526764861874
+Hatay,Turkey,Europe & Central Asia,5,,5870.0,5870.0,country,3.7686381012476144
+Helsinki,Finland,Europe & Central Asia,10,633.0,633.0,633.0,city,2.801403710017355
+Herrenschwanden,Switzerland,Europe & Central Asia,2,,1030.0,1030.0,country,3.012837224705172
+Hincesti,Moldova,Europe & Central Asia,3,,,,none,
+Hiroshima,Japan,East Asia & Pacific,4,,693.0,693.0,country,2.8407332346118066
+Ho Chi Minh,Vietnam,East Asia & Pacific,3,,,,none,
+Hong Kong,Hong Kong,East Asia & Pacific,2,4890.0,4890.0,4890.0,city,3.6893088591236203
+Houston,United States of America,North America,4,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Hyderabad,Pakistan,South Asia,2,,70700.0,70700.0,country,4.849419413796899
+Ibadan,Nigeria,Sub-Saharan Africa,5,,23300.0,23300.0,country,4.367355921026019
+Ilorin,Nigeria,Sub-Saharan Africa,8,,23300.0,23300.0,country,4.367355921026019
+Ipoh,Malaysia,East Asia & Pacific,3,,14200.0,14200.0,country,4.152288344383057
+Jelutong,Malaysia,East Asia & Pacific,3,,14200.0,14200.0,country,4.152288344383057
+Jerusalem,Israel,Middle East & North Africa,2,,12900.0,12900.0,country,4.110589710299249
+Johannesburg,South Africa,Sub-Saharan Africa,2,,5490.0,5490.0,country,3.739572344450092
+Jurong,Singapore,East Asia & Pacific,3,,,,none,
+Kampala,Uganda,Sub-Saharan Africa,4,,18.0,18.0,country,1.255272505103306
+Karachi,Pakistan,South Asia,4,,70700.0,70700.0,country,4.849419413796899
+Karonga,Malawi,Sub-Saharan Africa,2,,,,none,
+Kathmandu,Nepal,South Asia,5,,,,none,
+Kaust,Saudi Arabia,Middle East & North Africa,7,,,,none,
+Kgs. Lyngby,Denmark,Europe & Central Asia,3,,1730.0,1730.0,country,3.2380461031287955
+Klang,Malaysia,East Asia & Pacific,4,,14200.0,14200.0,country,4.152288344383057
+Kochi,India,South Asia,7,,29650.0,29650.0,country,4.472024697700282
+Kuala Lumpur,Malaysia,East Asia & Pacific,6,,14200.0,14200.0,country,4.152288344383057
+Kumasi,Ghana,Sub-Saharan Africa,4,,12700.0,12700.0,country,4.103803720955957
+Kuopio,Finland,Europe & Central Asia,3,,633.0,633.0,country,2.801403710017355
+Kuwait,Kuwait,Middle East & North Africa,2,,,,none,
+La Paz,Bolivia,Latin America & Caribbean,2,68900.0,68900.0,68900.0,city,4.838219221907626
+Lagos,Nigeria,Sub-Saharan Africa,8,23300.0,23300.0,23300.0,city,4.367355921026019
+Leuven,Belgium,Europe & Central Asia,2,,6210.0,6210.0,country,3.79309160017658
+Liberia,Costa Rica,Latin America & Caribbean,2,,25800.0,25800.0,country,4.41161970596323
+Liepaja,Latvia,Europe & Central Asia,6,,442.0,442.0,country,2.645422269349092
+Lilongwe,Malawi,Sub-Saharan Africa,2,,,,none,
+Lima¬≥N,Costa Rica,Latin America & Caribbean,2,,25800.0,25800.0,country,4.41161970596323
+Lisbon,Portugal,Europe & Central Asia,6,2750.0,1431.5,2750.0,city,3.439332693830263
+Ljubljana,Slovenia,Europe & Central Asia,9,50.4,50.4,50.4,city,1.7024305364455252
+Lome,Togo,Sub-Saharan Africa,5,,,,none,
+Luxembourg,Luxembourg,Europe & Central Asia,4,10700.0,10700.0,10700.0,city,4.02938377768521
+Macerata,Italy,Europe & Central Asia,3,,386.0,386.0,country,2.586587304671755
+Machinga,Malawi,Sub-Saharan Africa,2,,,,none,
+Madrid,Spain,Europe & Central Asia,3,17100.0,17100.0,17100.0,city,4.232996110392154
+Manama,Bahrain,Middle East & North Africa,2,,,,none,
+Maningrida,Australia,East Asia & Pacific,4,,326.5,326.5,country,2.5138831856110926
+Maputo,Mozambique,Sub-Saharan Africa,2,,,,none,
+Markopoulo,Greece,Europe & Central Asia,2,,696.0,696.0,country,2.842609239610562
+Mchinji,Malawi,Sub-Saharan Africa,2,,,,none,
+Melbourne,Australia,East Asia & Pacific,5,219.0,326.5,219.0,city,2.3404441148401185
+Montevideo,Uruguay,Latin America & Caribbean,3,20500.0,20500.0,20500.0,city,4.311753861055754
+Morogoro,Tanzania,Sub-Saharan Africa,4,,2044.0,2044.0,country,3.3104808914626753
+Moshi,Tanzania,Sub-Saharan Africa,13,,2044.0,2044.0,country,3.3104808914626753
+Mosquera,Colombia,Latin America & Caribbean,3,,3080.0,3080.0,country,3.4885507165004443
+Mwanza,Tanzania,Sub-Saharan Africa,4,,2044.0,2044.0,country,3.3104808914626753
+Mzuzu,Malawi,Sub-Saharan Africa,2,,,,none,
+N'djamena,Chad,Sub-Saharan Africa,3,,,,none,
+Nairobi,Kenya,Sub-Saharan Africa,2,27800.0,27800.0,27800.0,city,4.444044795918076
+Nanjing,China,East Asia & Pacific,5,,8680.0,8680.0,country,3.938519725176492
+Nantes,France,Europe & Central Asia,9,,782.0,782.0,country,2.893206753059848
+Narva,Estonia,Europe & Central Asia,2,,194.0,194.0,country,2.287801729930226
+Nelson,New Zealand,East Asia & Pacific,2,,22.0,22.0,country,1.3424226808222062
+Newcastle Upon Tyne,United Kingdom,Europe & Central Asia,3,,3606.8,3606.8,country,3.5571220610029948
+Novara,Italy,Europe & Central Asia,7,,386.0,386.0,country,2.586587304671755
+Novi Sad,Serbia,Europe & Central Asia,3,,2820.0,2820.0,country,3.450249108319361
+Nuuk,Greenland,Europe & Central Asia,2,,,,none,
+Orhei,Moldova,Europe & Central Asia,3,,,,none,
+Oslo,Norway,Europe & Central Asia,7,,0.96,0.96,country,-0.017728766960431602
+Ostend,Belgium,Europe & Central Asia,2,,6210.0,6210.0,country,3.79309160017658
+Ottawa,Canada,North America,8,180.0,1142.0,180.0,city,2.255272505103306
+Ouagadougou,Burkina Faso,Sub-Saharan Africa,3,1250.0,1250.0,1250.0,city,3.0969100130080562
+Oulu,Finland,Europe & Central Asia,4,,633.0,633.0,country,2.801403710017355
+Oxford,United Kingdom,Europe & Central Asia,2,,3606.8,3606.8,country,3.5571220610029948
+Palapye,Botswana,Sub-Saharan Africa,2,,,,none,
+Parnu,Estonia,Europe & Central Asia,2,,194.0,194.0,country,2.287801729930226
+Pathum Thani,Thailand,East Asia & Pacific,4,,1460.0,1460.0,country,3.164352855784437
+Peniche,Portugal,Europe & Central Asia,3,,1431.5,1431.5,country,3.1557913523576175
+Penryn,United Kingdom,Europe & Central Asia,2,,3606.8,3606.8,country,3.5571220610029948
+Pesaro,Italy,Europe & Central Asia,2,,386.0,386.0,country,2.586587304671755
+Phnom Penh,Cambodia,East Asia & Pacific,5,,,,none,
+Podgorica,Montenegro,Europe & Central Asia,6,,,,none,
+Portland,United States of America,North America,2,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Porto,Portugal,Europe & Central Asia,6,113.0,1431.5,113.0,city,2.0530784434834195
+Praha,Czechia,Europe & Central Asia,6,,1490.0,1490.0,country,3.173186268412274
+Pretoria,South Africa,Sub-Saharan Africa,7,5490.0,5490.0,5490.0,city,3.739572344450092
+Pulawy,Poland,Europe & Central Asia,9,,353.0,353.0,country,2.5477747053878224
+Quebec,Canada,North America,5,,1142.0,1142.0,country,3.0576661039098294
+Queretaro,Mexico,Latin America & Caribbean,4,,2130.0,2130.0,country,3.3283796034387376
+Quito,Ecuador,Latin America & Caribbean,5,,4730.0,4730.0,country,3.6748611407378116
+Regina,Canada,North America,8,,1142.0,1142.0,country,3.0576661039098294
+Renton,United States of America,North America,2,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Reykjavik,Iceland,Europe & Central Asia,7,0.0,0.0,0.0,city,-inf
+Riga,Latvia,Europe & Central Asia,9,442.0,442.0,442.0,city,2.645422269349092
+Rio De Janeiro,Brazil,Latin America & Caribbean,3,,1257.6666666666667,1257.6666666666667,country,3.099565550481333
+Rome,Italy,Europe & Central Asia,12,386.0,386.0,386.0,city,2.586587304671755
+Saint Augustine,Trinidad and Tobago,Latin America & Caribbean,3,,,,none,
+Saint Martin,Mauritius,Sub-Saharan Africa,3,,,,none,
+Saint-Philibert,France,Europe & Central Asia,6,,782.0,782.0,country,2.893206753059848
+San Isidro De El General,Costa Rica,Latin America & Caribbean,2,,25800.0,25800.0,country,4.41161970596323
+San Jose,Costa Rica,Latin America & Caribbean,3,25800.0,25800.0,25800.0,city,4.41161970596323
+San Lorenzo,Paraguay,Latin America & Caribbean,3,,,,none,
+Santa Venera,Malta,Middle East & North Africa,2,,,,none,
+Santiago,Chile,Latin America & Caribbean,7,4040.0,2057.2,4040.0,city,3.606381365110605
+Schifflange,Luxembourg,Europe & Central Asia,2,,10700.0,10700.0,country,4.02938377768521
+Seattle,United States of America,North America,8,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Sekondi-Takoradi,Ghana,Sub-Saharan Africa,2,,12700.0,12700.0,country,4.103803720955957
+Shiraz,Iran,Middle East & North Africa,2,,237.0,237.0,country,2.374748346010104
+Singapore,Singapore,East Asia & Pacific,4,,,,none,
+Sisimiut,Greenland,Europe & Central Asia,4,,,,none,
+Skopje,North Macedonia,Europe & Central Asia,4,,,,none,
+Sofia,Bulgaria,Europe & Central Asia,3,12700.0,12700.0,12700.0,city,4.103803720955957
+Soroca,Moldova,Europe & Central Asia,3,,,,none,
+St.venera,Malta,Middle East & North Africa,2,,,,none,
+Subotica,Serbia,Europe & Central Asia,3,,2820.0,2820.0,country,3.450249108319361
+Sungai Petani,Malaysia,East Asia & Pacific,3,,14200.0,14200.0,country,4.152288344383057
+Suzhou,China,East Asia & Pacific,4,,8680.0,8680.0,country,3.938519725176492
+Sydney,Australia,East Asia & Pacific,12,397.0,326.5,397.0,city,2.598790506763115
+Szekesfehervar,Hungary,Europe & Central Asia,2,,1840.0,1840.0,country,3.2648178230095364
+Taipei,Taiwan,East Asia & Pacific,8,,1420.0,1420.0,country,3.1522883443830563
+Tallinn,Estonia,Europe & Central Asia,2,194.0,194.0,194.0,city,2.287801729930226
+Tamale,Ghana,Sub-Saharan Africa,8,,12700.0,12700.0,country,4.103803720955957
+Tartu,Estonia,Europe & Central Asia,2,,194.0,194.0,country,2.287801729930226
+Tehran,Iran,Middle East & North Africa,3,,237.0,237.0,country,2.374748346010104
+Thessaloniki,Greece,Europe & Central Asia,6,,696.0,696.0,country,2.842609239610562
+Tirana,Albania,Europe & Central Asia,3,33.1,33.1,33.1,city,1.5198279937757189
+Tokyo,Japan,East Asia & Pacific,2,,693.0,693.0,country,2.8407332346118066
+Toronto,Canada,North America,2,2390.0,1142.0,2390.0,city,3.3783979009481375
+Turku,Finland,Europe & Central Asia,4,,633.0,633.0,country,2.801403710017355
+Udupi,India,South Asia,3,,29650.0,29650.0,country,4.472024697700282
+Ungheni,Moldova,Europe & Central Asia,3,,,,none,
+Uppsala,Sweden,Europe & Central Asia,4,296.0,296.0,296.0,city,2.4712917110589387
+Utrecht,Netherlands,Europe & Central Asia,4,2970.0,2970.0,2970.0,city,3.4727564493172123
+Vancouver,Canada,North America,6,,1142.0,1142.0,country,3.0576661039098294
+Verbania,Italy,Europe & Central Asia,7,,386.0,386.0,country,2.586587304671755
+Vienna,Austria,Europe & Central Asia,9,4790.0,4790.0,4790.0,city,3.680335513414563
+Waco,United States of America,North America,3,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Wollongong,Australia,East Asia & Pacific,9,,326.5,326.5,country,2.5138831856110926
+Woodinville Brightwater,United States of America,North America,2,,2460.318181818182,2460.318181818182,country,3.3909912760757766
+Worthing,Barbados,Latin America & Caribbean,6,,,,none,
+Xghajra,Malta,Middle East & North Africa,3,,,,none,
+Yamoussoukro,Cote d'Ivoire,Sub-Saharan Africa,8,,,,none,
+Yaounde,Cameroon,Sub-Saharan Africa,4,2310.0,2310.0,2310.0,city,3.3636119798921444
+Zagreb,Croatia,Europe & Central Asia,8,948.0,948.0,948.0,city,2.976808337338066
+Zaria,Nigeria,Sub-Saharan Africa,3,,23300.0,23300.0,country,4.367355921026019
+Zomba,Malawi,Sub-Saharan Africa,3,,,,none,
+Zrenjanin,Serbia,Europe & Central Asia,2,,2820.0,2820.0,country,3.450249108319361

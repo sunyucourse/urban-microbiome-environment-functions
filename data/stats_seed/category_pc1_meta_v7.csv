@@ -1,0 +1,15 @@
+category,n_members,n_cities,var_explained_pc1,top_loading
+Air pollution (CAMS),3,41,0.7938826137085481,cams_pm25_ugm3_1617
+Built environment,2,41,0.8377589736209979,ghs_pop_dens
+Climate,11,37,0.41563820328244383,ann_mean_temp
+Geographic,5,33,0.5233077750513659,city_lat
+Heavy metals,14,41,0.30404553959752295,hm_hhet_mean
+Microplastics,2,39,0.560954889948434,mismanaged_plastic_pc
+PM2.5 (satellite),1,40,1.0,pm25_vd_mean
+Pesticides,3,34,0.497613564079359,pest_pesticides
+Pharmaceuticals,1,38,1.0,pharma_cum_log10
+Socioeconomic,4,36,0.42953402364538507,gdp_pc_2017
+Soil,5,40,0.5469992464719273,soc
+Urban heat island,2,39,0.5804957776628699,uhii_nig
+Vegetation (NDVI),4,41,0.5042818259397048,ndvi_max
+Wildfire,2,41,0.7798890153157301,fire_ba_frac_mean
